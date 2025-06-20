@@ -8,6 +8,5 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           </div>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=answldnd08)](https://solved.ac/answldnd08/)
     </div>
-    
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=answldnd08)](https://solved.ac/answldnd08/)
